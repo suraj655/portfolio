@@ -1,0 +1,20 @@
+
+What I can do:
+- Planning and implementing the app’s architecture and features.
+- Writing apps from the very beginning to the App Store and further support. 
+- Server backend API and Web admin panel for the project
+- Fixing and supporting the apps written by others. 
+- Working with a team of developers or solo.
+Technologies and framework that I have worked on -
+* IDE - Android Studio, Xcode, Photoshop
+* Custom cloud service: Firebase, AWS, Parse, Netsuite, XMPP, Backendless, IBM Watson, Media Wiki.
+* Blockchain Integration
+* Coinbase API Integration
+* IPTV
+* Map/Geolocation: map, MapKit, Mapbox, OpenStreet. 
+* Push notification: APNS(iOS), GCM(Android), One Signal.
+* Payment Gateway:  Braintree, CCAvenue, Google wallet, Bluefin, Citrus
+* Ads: Admob, Flurry, Chart boost.
+* Analytics - Google Analytics, Flurry, Fabric's Answers
+* Mobile Authentication - Digits
+* Crash Detection - Fabric's crashlytics
